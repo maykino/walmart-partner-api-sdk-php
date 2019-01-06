@@ -9,7 +9,6 @@
       "email": "phillip.shipley@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4",
     "guzzlehttp/guzzle": "^5.3.1",
